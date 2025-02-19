@@ -10,16 +10,16 @@
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-            <li class="ms-3"><a class=" btn btn-outline-dark" href="https://x.com/Devdharmenderji"><i class="bi bi-twitter-x"
+            <li class="ms-3"><a class="btn btn-outline-dark" href="https://x.com/Devdharmenderji"><i class="bi bi-twitter-x"
                      aria-hidden="true"></i></a>
             </li>
-            <li class="ms-3"><a class=" btn btn-outline-info" href="https://in.linkedin.com/in/developerdharmender"><i
+            <li class="ms-3"><a class="btn btn-outline-info" href="https://in.linkedin.com/in/developerdharmender"><i
                         class="bi bi-linkedin" aria-hidden="true"></i></a>
             </li>
-            <li class="ms-3"><a class=" btn btn-outline-dark" href="https://github.com/blackheadhackr"><i class="bi bi-github"
+            <li class="ms-3"><a class="btn btn-outline-dark" href="https://github.com/blackheadhackr"><i class="bi bi-github"
                      aria-hidden="true"></i></a>
             </li>
-            <li class="ms-3"><a class=" btn btn-outline-danger" href="https://www.instagram.com/goutamji11"><i class="bi bi-instagram"
+            <li class="ms-3"><a class="btn btn-outline-danger" href="https://www.instagram.com/goutamji11"><i class="bi bi-instagram"
                      aria-hidden="true"></i></a>
             </li>
         </ul>
